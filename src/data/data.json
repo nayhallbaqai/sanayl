@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Sanayl textile",
+        "paragraph": "Family Manufacturing since 1980s"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "SANAYL Textile Ltd is a family manufacturing business since the 1980s. Our company is devoted to investing in advanced and innovative technologies, we sketch our inspiration through the wide global arena and manufacture it under one roof. We continuously challenge the limitations when it comes to weaving and printing. Here at SANAYL, we manufacture fabrics customised based on customers’ specifications which are exclusively provided to them whereas our own range of fabrics are also available that anyone can order in bulk quantity. We provide excellent quality products and services manufactured with top quality material as SANAYL Textile’s motto has always been to furnish superior quality products and services to our customers.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -22,33 +22,21 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/products/sanayl-fabric-manufacturer.jpeg",
+            "name": "Fabrics manufacture & Supply",
+            "text": "We manufacture and supply (curtains, upholstery and wearing)  fabrics on custom based as per customer’s demand, which is exclusively provided to them."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/products/sanayl-own-fabric-designs.jpeg",
+            "name": "Own fabric designs",
+            "text": "We have warehousing of our own wide range of fabrics designs, manufactured and produced under one roof and readily available per roll bases."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/products/sanayl-event-decor-service-img.jpeg",
+            "name": "Events decor",
+            "text": "We provide stitched Jacquard (e.g. Damask style) table covers, chair covers and napkins, readily available in a huge range of designs and colours for event planners. We also produce custom make fabric designs as per customers’ demand and stitched them into products."
         }
 
 
@@ -105,9 +93,9 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "",
+        "phone": "+44 7305 434205",
+        "email": "contact@sanayl.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"

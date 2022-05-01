@@ -1,17 +1,19 @@
 import React, { Component } from 'react'
 
 export class about extends Component {
+  playPause(params) {
+    params.paused ? params.play() : params.pause()
+  }
   render() {
     return (
         <div id="about">
         <div className="container">
           <div className="row">
-            <div className="col-xs-12 col-md-6"> <img src="img/about.jpg" className="img-responsive" alt=""/> </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
                 <h2>About Us</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                <h3>Why Choose Us?</h3>
+                {/* <h3>Why Choose Us?</h3>
                 <div className="list-style">
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
@@ -24,8 +26,13 @@ export class about extends Component {
 
                     </ul>
                   </div>
-                </div>
+                </div> */}
               </div>
+            </div>
+            <div className="col-xs-12 col-md-6"> 
+              <video className="img-responsive" controls>
+                <source src="video/sanayl-about-us.mp4" type="video/mp4"></source>
+              </video> 
             </div>
           </div>
         </div>
