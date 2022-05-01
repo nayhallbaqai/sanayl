@@ -1,5 +1,4 @@
 {
-  "homepage": "https://nayhallbaqai.github.io/sanayl"
   "name": "sanayl",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
