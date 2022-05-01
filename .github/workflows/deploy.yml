@@ -20,7 +20,8 @@ jobs:
     - name: Build page
       run: npm run build
     - name: Deploy to gh-pages
-      uses: nayhallbaqai/actions-gh-pages@main
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/main' }}
       with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_dir: ./build
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
