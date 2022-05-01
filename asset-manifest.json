@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanayl/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sanayl/static/js/main.2974533e.chunk.js",
+    "main.js.map": "/sanayl/static/js/main.2974533e.chunk.js.map",
+    "runtime-main.js": "/sanayl/static/js/runtime-main.f33f8659.js",
+    "runtime-main.js.map": "/sanayl/static/js/runtime-main.f33f8659.js.map",
+    "static/js/2.461306d9.chunk.js": "/sanayl/static/js/2.461306d9.chunk.js",
+    "static/js/2.461306d9.chunk.js.map": "/sanayl/static/js/2.461306d9.chunk.js.map",
+    "index.html": "/sanayl/index.html",
+    "precache-manifest.0a913fd7a7b27ab629f23adc90a9fdae.js": "/sanayl/precache-manifest.0a913fd7a7b27ab629f23adc90a9fdae.js",
+    "service-worker.js": "/sanayl/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sanayl/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.461306d9.chunk.js.LICENSE.txt": "/sanayl/static/js/2.461306d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f33f8659.js",
+    "static/js/2.461306d9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2974533e.chunk.js"
+  ]
+}
